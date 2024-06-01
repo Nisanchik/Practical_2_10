@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practical_2_10</string>
+    <string name="practical_2_10">Практика 2_10</string>
+    <string name="reference">Нисанов Даниил, РИБО-04-22, Вариант 2</string>
+    <string name="modelEntering">Введите модель телефона:</string>
+    <string name="priceEntering">Введите цену телефона</string>
+    <string name="serialNumberEntering">Введите серийный номер телефона</string>
+    <string name="add">Добавить</string>
+</resources>
